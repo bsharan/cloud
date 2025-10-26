@@ -16,4 +16,5 @@ spec:
       - name: chat-app
         image: sharanphd/chat-app:v1
         ports:
-        - containerPort: 8000
+
+        - containerPort: 3000
